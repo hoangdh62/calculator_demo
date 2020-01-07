@@ -20,7 +20,7 @@
         <Button
             android:layout_margin="2dp"
             android:background="@drawable/ripple_effect2"
-            android:id="@+id/square"
+            android:id="@+id/btn_square"
             android:layout_weight="0.25"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -29,7 +29,7 @@
         <Button
             android:layout_margin="2dp"
             android:background="@drawable/ripple_effect2"
-            android:id="@+id/sqrt"
+            android:id="@+id/btn_sqrt"
             android:layout_weight="0.25"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -167,7 +167,7 @@
         <Button
             android:layout_margin="2dp"
             android:background="@drawable/ripple_effect"
-            android:id="@+id/sum"
+            android:id="@+id/btn_sum"
             android:layout_weight="0.25"
             android:layout_width="0dp"
             android:layout_height="match_parent"
